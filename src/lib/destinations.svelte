@@ -11,7 +11,6 @@
 	// import required modules
 	import { Pagination } from 'swiper';
 	import Destination from './destination.svelte';
-	import Interview from './interview.svelte';
 </script>
 
 <div class="mx-5 mt-20">

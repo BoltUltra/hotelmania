@@ -1,4 +1,5 @@
 <script>
+	import Services from './../lib/services.svelte';
 	import Destinations from './../lib/destinations.svelte';
 	import Companies from './../lib/companies.svelte';
 	import HomeHero from './../lib/homeHero.svelte';
@@ -7,7 +8,12 @@
 
 <div class="">
 	<HomeHero />
+
 	<Companies />
+
 	<Destinations />
+
 	<How />
+
+	<Services />
 </div>

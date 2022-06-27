@@ -1,6 +1,6 @@
 <script></script>
 
-<div class="mx-32 mt-10">
+<div class="mx-24 mt-10">
 	<h3 class="h3">How <span class="text-primary">Hotelmania</span> Works</h3>
 	<div class="relative grid grid-cols-3 gap-x-20">
 		<div class="features">
@@ -47,6 +47,10 @@
 					d="M51.1873 25.1212V12.5412H48.3073V10.2212H53.9073V25.1212H51.1873Z"
 					fill="#FAF3C1"
 				/>
+				<path
+					d="M34.8541 74V69.8551H30.7092V67.4409H34.8541V63.3174H37.2683V67.4409H41.3918V69.8551H37.2683V74H34.8541Z"
+					fill="#F2AB53"
+				/>
 			</svg>
 
 			<div class="space-y-3">
@@ -55,7 +59,7 @@
 			</div>
 		</div>
 		<!-- Clip path 1 -->
-		<div class="absolute top-[27%] left-52">
+		<div class="absolute top-[27%] left-60">
 			<svg
 				width="247"
 				height="56"
