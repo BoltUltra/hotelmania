@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-menu {
+	@apply block hover:text-primary border-b border-b-primary pb-2;
+}
+
+.nav-link {
+	@apply hover:text-primary hover:border-b hover:border-b-primary hover:pb-2;
+}
+
+.h3 {
+	@apply text-5xl font-semibold leading-tight text-center;
+}
+
+.features {
+	@apply text-primary my-10 py-10 space-y-5;
+}
