@@ -21,3 +21,7 @@
 .features {
 	@apply text-primary my-10 py-10 space-y-5;
 }
+
+.footer-links {
+	@apply space-y-2 mt-4 text-gray-500 text-sm;
+}

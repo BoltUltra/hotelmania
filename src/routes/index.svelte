@@ -1,4 +1,7 @@
 <script>
+	import Contact from './../lib/contact.svelte';
+	import Testimonials from './../lib/testimonials.svelte';
+	import Getnotified from './../lib/getnotified.svelte';
 	import Services from './../lib/services.svelte';
 	import Destinations from './../lib/destinations.svelte';
 	import Companies from './../lib/companies.svelte';
@@ -16,4 +19,10 @@
 	<How />
 
 	<Services />
+
+	<Getnotified />
+
+	<Testimonials />
+
+	<Contact />
 </div>
