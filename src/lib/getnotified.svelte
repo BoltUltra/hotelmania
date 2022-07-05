@@ -10,10 +10,12 @@
 			>
 				<input
 					type="text"
-					class="focus:outline-none placeholder:text-sm placeholder:text-gray-100 pl-5 bg-transparent"
+					class="focus:outline-none md:placeholder:text-sm placeholder:text-xs placeholder:text-gray-100 pl-5 bg-transparent"
 					placeholder="Your email address"
 				/>
-				<a href="/" class="bg-primary rounded-full py-2 px-3 text-white text-sm font-light"
+				<a
+					href="/"
+					class="bg-primary rounded-full py-2 px-3 text-white md:text-sm text-xs font-light"
 					>Start trial</a
 				>
 			</div>
@@ -24,8 +26,12 @@
 			alt=""
 			class="absolute md:w-28 w-14 md:bottom-10 bottom-5 md:right-44 right-10"
 		/>
-		<img src="/Ellipse-101.svg" alt="" class="absolute bottom-10 w-18 left-44" />
-		<img src="/Ellipse-102.svg" alt="" class="absolute right-44 top-10 w-18" />
-		<img src="/Ellipse-103.svg" alt="" class="absolute w-32 right-0 top-10" />
+		<img
+			src="/Ellipse-101.svg"
+			alt=""
+			class="absolute bottom-10 w-18 left-44 md:visible invisible"
+		/>
+		<img src="/Ellipse-102.svg" alt="" class="absolute right-44 top-10 w-18 md:visible invisible" />
+		<img src="/Ellipse-103.svg" alt="" class="absolute w-32 right-0 top-10 md:visible invisible" />
 	</div>
 </div>

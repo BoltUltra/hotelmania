@@ -39,9 +39,9 @@
 	<div class="text-center font-light pt-5">&copy; HappiVibe | {year}</div>
 </div> -->
 
-<footer class="bg-[#F4F5F7] pt-72 px-52">
+<footer class="bg-[#F4F5F7] md:pt-72 pt-10 md:px-52 px-10">
 	<div class="container">
-		<div class="grid grid-cols-4 gap-x-5">
+		<div class="md:grid md:grid-cols-4 gap-x-5 md:space-y-0 space-y-5 md:text-left text-center">
 			<div class="space-y-3">
 				<a
 					class="flex title-font font-bold items-center md:justify-start justify-center text-gray-900"
