@@ -16,7 +16,9 @@
 <div class="mx-5 mt-20">
 	<div class="space-y-3 text-center">
 		<h3 class="h3">Our Popular <span class="text-primary">Destinations</span></h3>
-		<p>Our aim is to provide you with a top-quality tour experience.</p>
+		<p class="md:text-base text-sm">
+			Our aim is to provide you with a top-quality tour experience.
+		</p>
 	</div>
 	<div>
 		<Swiper

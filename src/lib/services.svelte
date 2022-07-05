@@ -12,10 +12,10 @@
 	import Service from './service.svelte';
 </script>
 
-<div class="mt-20 mx-20">
-	<div class="flex items-center space-x-5">
-		<h3 class="h3-left w-[60%]">Choose your <span class="text-primary">luxurious</span> room</h3>
-		<p class="pr-80 text-sm">
+<div class="md:mt-20 md:mx-20 mx-10">
+	<div class="md:flex md:items-center md:space-x-5 md:space-y-0 space-y-3">
+		<h3 class="h3-left md:w-[60%]">Choose your <span class="text-primary">luxurious</span> room</h3>
+		<p class="md:pr-80 md:text-sm md:text-left text-center text-xs">
 			At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiss praesentium
 			voluptatum deleniti atque corrupti quos dolores
 		</p>

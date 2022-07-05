@@ -1,8 +1,8 @@
 <script></script>
 
-<div class="mx-24 mt-10">
+<div class="md:mx-24 mx-10 mt-10">
 	<h3 class="h3">How <span class="text-primary">Hotelmania</span> Works</h3>
-	<div class="relative grid grid-cols-3 gap-x-20">
+	<div class="relative md:grid md:grid-cols-3 md:gap-x-20">
 		<div class="features">
 			<svg
 				width="70"
@@ -59,7 +59,7 @@
 			</div>
 		</div>
 		<!-- Clip path 1 -->
-		<div class="absolute top-[27%] left-60">
+		<div class="absolute top-[27%] left-60 md:block hidden">
 			<svg
 				width="247"
 				height="56"
@@ -79,7 +79,7 @@
 				<svg
 					width="54"
 					height="84"
-					class="relative left-1/2 mb-32"
+					class="relative left-1/2 md:mb-32"
 					viewBox="0 0 54 84"
 					fill="none"
 					xmlns="http://www.w3.org/2000/svg"
@@ -106,7 +106,7 @@
 					/>
 				</svg>
 			</div>
-			<div class="space-y-3">
+			<div class="space-y-3 md:pt-0 pt-10">
 				<h4 class="font-bold text-black">Search Hotels</h4>
 				<p class="text-black">
 					Predictable work rates at $65/hour. Ideal for growing Shopify stores
@@ -114,7 +114,7 @@
 			</div>
 		</div>
 		<!-- Clip path 2 -->
-		<div class="absolute top-[36%] right-44">
+		<div class="absolute top-[36%] right-44 md:block hidden">
 			<svg
 				width="250"
 				height="33"
@@ -130,7 +130,7 @@
 				<svg
 					width="90"
 					height="84"
-					class="relative left-1/2 mb-44"
+					class="relative left-1/2 md:mb-44"
 					viewBox="0 0 90 84"
 					fill="none"
 					xmlns="http://www.w3.org/2000/svg"
@@ -158,7 +158,7 @@
 					/>
 				</svg>
 			</div>
-			<div class="space-y-3">
+			<div class="space-y-3 md:pt-0 pt-10">
 				<h4 class="font-bold text-black">Start Travelling</h4>
 				<p class="text-black">
 					No more flakey developers, Storetasker developers get things done on time

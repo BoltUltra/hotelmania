@@ -11,15 +11,19 @@
 }
 
 .h3 {
-	@apply text-5xl font-semibold leading-tight text-center;
+	@apply md:text-5xl text-3xl font-semibold leading-tight text-center;
 }
 
 .h3-left {
-	@apply text-5xl font-semibold leading-tight text-left;
+	@apply md:text-5xl text-3xl font-semibold leading-tight md:text-left text-center;
 }
 
 .features {
-	@apply text-primary my-10 py-10 space-y-5;
+	@apply text-primary my-10 md:py-10 py-5 md:px-0 px-5 space-y-5 border border-gray-100 md:shadow-none rounded-lg shadow-xl;
+}
+
+.features p {
+	@apply md:text-base text-sm;
 }
 
 .footer-links {
