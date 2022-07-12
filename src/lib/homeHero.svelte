@@ -11,12 +11,14 @@
 			<h2 class="md:text-[58px] text-4xl font-semibold leading-tight">
 				Your <span class="text-primary">Dream</span> Hotel is Waiting for You!
 			</h2>
-			<p class="text-sm md:mr-[170px] font-semibold">
-				Find Hotels, rooms and Houses for your stay all around the globe and make your trips more
-				exciting....
-			</p>
-			<Searchmenu />
-			<p class="md:text-sm font-semibold">Top Locations: Manchester, London, Greenwich</p>
+			<div class="space-y-3">
+				<p class="text-sm md:mr-[170px] font-semibold">
+					Find Hotels, rooms and Houses for your stay all around the globe and make your trips more
+					exciting....
+				</p>
+				<Searchmenu />
+				<p class="md:text-sm font-semibold">Top Locations: Manchester, London, Greenwich</p>
+			</div>
 		</div>
 		<div class="col-span-3">
 			<img src="/heroimg.png" alt="" />
