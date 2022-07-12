@@ -11,7 +11,7 @@
 		<img src={image} alt="" class="rounded" />
 	</div>
 	<div class="mt-5">
-		<h4 class="text-lg font-bold text-primary">{title}</h4>
+		<h4 class="text-lg font-bold text-primary mb-3">{title}</h4>
 		<p class="text-sm">{content}</p>
 	</div>
 </div>

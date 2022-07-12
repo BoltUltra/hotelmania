@@ -9,14 +9,16 @@
 	<div class="shadow-lg hover:shadow-xl rounded-lg relative text-center py-6 px-4 bg-[#F9FAFB]">
 		<div class="-top-14 -mb-10 relative">
 			<img src={image} alt="" class="rounded-full w-20 mx-auto" />
-			<p class="text-[#FDCC0D]">
-				<i class="fa-solid fa-star" />
-				<i class="fa-solid fa-star" />
-				<i class="fa-solid fa-star" />
-				<i class="fa-solid fa-star" />
-				<i class="fa-solid fa-star" />
-			</p>
-			<h4 class="font-bold">{user}</h4>
+			<div class="space-y-1">
+				<p class="text-[#FDCC0D] mt-4">
+					<i class="fa-solid fa-star" />
+					<i class="fa-solid fa-star" />
+					<i class="fa-solid fa-star" />
+					<i class="fa-solid fa-star" />
+					<i class="fa-solid fa-star" />
+				</p>
+				<h4 class="font-bold">{user}</h4>
+			</div>
 		</div>
 		<p class="text-sm">
 			{content}

@@ -7,7 +7,7 @@
 			<svg
 				width="70"
 				height="152"
-				class="relative left-1/2"
+				class="md:relative md:left-1/2 md:mx-0 mx-auto"
 				viewBox="0 0 70 152"
 				fill="none"
 				xmlns="http://www.w3.org/2000/svg"
@@ -79,7 +79,7 @@
 				<svg
 					width="54"
 					height="84"
-					class="relative left-1/2 md:mb-32"
+					class="md:relative md:left-1/2 md:mb-32 md:mx-0 mx-auto"
 					viewBox="0 0 54 84"
 					fill="none"
 					xmlns="http://www.w3.org/2000/svg"
@@ -130,7 +130,7 @@
 				<svg
 					width="90"
 					height="84"
-					class="relative left-1/2 md:mb-44"
+					class="md:relative md:left-1/2 md:mb-44 md:mx-0 mx-auto"
 					viewBox="0 0 90 84"
 					fill="none"
 					xmlns="http://www.w3.org/2000/svg"

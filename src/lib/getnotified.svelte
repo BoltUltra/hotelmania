@@ -20,7 +20,11 @@
 				>
 			</div>
 		</div>
-		<img src="/Polygon-1.svg" alt="" class="absolute top-0 md:left-12 left-7 md:w-40 w-20" />
+		<img
+			src="/Polygon-1.svg"
+			alt=""
+			class="absolute md:top-0 top-3 md:left-12 left-7 md:w-40 w-20"
+		/>
 		<img
 			src="/Polygon-2.svg"
 			alt=""
