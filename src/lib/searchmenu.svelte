@@ -2,6 +2,7 @@
 
 <div
 	class="bg-gray-50 flex items-center space-x-2 mt-5 relative md:left-5 md:py-3 py-1 md:px-5 px-2 rounded-full md:w-[110%]"
+	data-aos="zoom-in"
 >
 	<div class="border-r-2 border-r-gray-500 md:flex hidden">
 		<span class="text-gray-500 pr-2"> <i class="fa-solid fa-magnifying-glass" /></span>

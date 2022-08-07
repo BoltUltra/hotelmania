@@ -49,6 +49,7 @@
 					image="/beijing.png"
 					title="Bangkok, Thailand."
 					content="Bangkok is the capital and most populous city of Thailand. It is know in Thai as krung Thep Maha Nakhon or simply Krung Thep."
+					aos="fade-left"
 				/></SwiperSlide
 			>
 			<SwiperSlide
@@ -56,6 +57,7 @@
 					image="/uk.png"
 					title="Bangkok, Thailand."
 					content="Bangkok is the capital and most populous city of Thailand. It is know in Thai as krung Thep Maha Nakhon or simply Krung Thep."
+					aos="fade-right"
 				/></SwiperSlide
 			>
 			<SwiperSlide
@@ -63,6 +65,7 @@
 					image="/uss.png"
 					title="Bangkok, Thailand."
 					content="Bangkok is the capital and most populous city of Thailand. It is know in Thai as krung Thep Maha Nakhon or simply Krung Thep."
+					aos="fade-down"
 				/></SwiperSlide
 			>
 			<SwiperSlide
@@ -70,6 +73,7 @@
 					image="/uss.png"
 					title="Bangkok, Thailand."
 					content="Bangkok is the capital and most populous city of Thailand. It is know in Thai as krung Thep Maha Nakhon or simply Krung Thep."
+					aos="fade-up"
 				/></SwiperSlide
 			>
 		</Swiper>

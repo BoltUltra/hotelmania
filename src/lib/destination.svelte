@@ -2,10 +2,12 @@
 	export let image = '';
 	export let content = '';
 	export let title = '';
+	export let aos = '';
 </script>
 
 <div
 	class="shadow-xl rounded md:my-9 mb-9 md:mx-0 mx-3 px-3 py-10 md:py-22 md:w-full md:overflow-hidden"
+	data-aos={aos}
 >
 	<div class="rounded">
 		<img src={image} alt="" class="rounded" />

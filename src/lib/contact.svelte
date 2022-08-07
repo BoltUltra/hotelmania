@@ -3,6 +3,7 @@
 <div>
 	<div
 		class="bg-[#243644] md:mx-40 text-center text-white md:py-14 py-6 md:space-y-20 space-y-10 relative md:-bottom-32"
+		data-aos="zoom-in"
 	>
 		<p class="capitalize font-bold md:text-5xl text-3xl">contact us</p>
 		<div class="flex justify-around items-center">
