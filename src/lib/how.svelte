@@ -3,7 +3,7 @@
 <div class="md:mx-24 mx-10 mt-10">
 	<h3 class="h3">How <span class="text-primary">Hotelmania</span> Works</h3>
 	<div class="relative md:grid md:grid-cols-3 md:gap-x-20">
-		<div class="features" data-aos="zoom-right">
+		<div class="features" data-aos="zoom-in">
 			<svg
 				width="70"
 				height="152"
@@ -59,7 +59,7 @@
 			</div>
 		</div>
 		<!-- Clip path 1 -->
-		<div class="absolute top-[27%] left-60 md:block hidden" data-aos="fade-down">
+		<div class="absolute top-[27%] left-60 md:block hidden" data-aos="flip-left">
 			<svg
 				width="247"
 				height="56"
@@ -115,7 +115,7 @@
 			</div>
 		</div>
 		<!-- Clip path 2 -->
-		<div class="absolute top-[36%] right-44 md:block hidden" data-aos="fade-up">
+		<div class="absolute top-[36%] right-44 md:block hidden" data-aos="flip-right">
 			<svg
 				width="250"
 				height="33"

@@ -21,7 +21,7 @@
 		</p>
 	</div>
 
-	<div class="">
+	<div class="" data-aos="zoom-in">
 		<div>
 			<Swiper
 				slidesPerView={1}
